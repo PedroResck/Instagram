@@ -1,6 +1,6 @@
 # Instagram 
 
-** Desafio DIO
+## Desafio DIO
 
 A plataforma de estudos DIO, propôs o desafio de recriar a página inicial do Instagram.
 
